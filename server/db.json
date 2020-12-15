@@ -1,0 +1,98 @@
+{
+  "resto": [
+    {
+      "name": "abc restaurant",
+      "Address": "clayton123",
+      "emailId": "abc@gmail.com",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "def restaurant",
+      "Address": "carnegie",
+      "mobile": "0423504695",
+      "emailId": "def@gmail.com"
+    },
+    {
+      "name": "edd restaurant",
+      "Address": "carnegie",
+      "mobile": "0423504695",
+      "emailId": "edd@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Saral Khandelwal",
+      "Address": "1/127 Oakleigh East",
+      "emailId": "khandelwal.saral2008@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "titi",
+      "Address": "hello",
+      "emailId": "titi@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Saral Khandelwal",
+      "Address": "1/127 Oakleigh East",
+      "emailId": "khandelwal.saral2008@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Saral Khandelwal",
+      "Address": "1/127 Oakleigh East",
+      "emailId": "khandelwal.saral2008@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Saral Khandelwal",
+      "Address": "1/127 Oakleigh East",
+      "emailId": "khandelwal.saral2008@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Saral Khandelwal",
+      "Address": "1/127 Oakleigh East",
+      "emailId": "khandelwal.saral2008@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Saral Khandelwal",
+      "Address": "1/127 Oakleigh East",
+      "emailId": "khandelwal.saral2008@gmail.com",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "name": "saral",
+      "password": "hello",
+      "emailId": "saral@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Saral Khandelwal",
+      "password": "sasasas",
+      "emailId": "khandelwal.saral2008@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Saral Khandelwal",
+      "password": "sadadca",
+      "emailId": "khandelwal.saral2008@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Saral Khandelwal",
+      "password": "veveveve",
+      "emailId": "khandelwal.saral2008@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Saral Khandelwal",
+      "password": "abc",
+      "emailId": "khandelwal.saral2008@gmail.com",
+      "id": 5
+    }
+  ]
+}

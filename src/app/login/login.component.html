@@ -1,0 +1,16 @@
+<p>add-resto works!</p>
+<div class="jumbotron">
+    <h3>Login User</h3>
+</div>
+<form>
+      <div class="mb-3">
+        <label>Email address</label>
+        <input type="text" class="form-control" name="emailId" [(ngModel)] = "emailId" >
+      </div>
+      <div class="mb-3">
+        <label>Password</label>
+        <input type="password" class="form-control" name="password" [(ngModel)] = "password"  >
+      </div>
+    <button type="submit" class="btn btn-primary" (click)="loginUser()">Login</button>
+  </form>
+
